@@ -1010,10 +1010,10 @@
             </objects>
             <point key="canvasLocation" x="2052" y="2914"/>
         </scene>
-        <!--Planets-->
+        <!--Films-->
         <scene sceneID="ZXr-Ku-UXZ">
             <objects>
-                <tableViewController title="Planets" id="VFv-1M-4kq" customClass="FilmsController" customModule="LearnCoreData" customModuleProvider="target" sceneMemberID="viewController">
+                <tableViewController title="Films" id="VFv-1M-4kq" customClass="FilmsController" customModule="LearnCoreData" customModuleProvider="target" sceneMemberID="viewController">
                     <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" keyboardDismissMode="onDrag" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" id="fcY-EE-TUm">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>

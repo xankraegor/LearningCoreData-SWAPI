@@ -16,7 +16,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
 
-//        reloadData()
+        reloadData()
         print(FileManager.default.urls(for: .applicationDirectory, in: .userDomainMask).last!)
 
         return true
